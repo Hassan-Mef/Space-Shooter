@@ -1,0 +1,24 @@
+﻿  Bullets.cpp
+D:\Projects\Space-Shooter-\Bullets.cpp(31,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Console.cpp
+  Enemies.cpp
+  Game_Manager.cpp
+D:\Projects\Space-Shooter-\Game_Manager.cpp(84,20): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+D:\Projects\Space-Shooter-\Game_Manager.cpp(84,20): warning C4244:         with
+D:\Projects\Space-Shooter-\Game_Manager.cpp(84,20): warning C4244:         [
+D:\Projects\Space-Shooter-\Game_Manager.cpp(84,20): warning C4244:             _Ty=int
+D:\Projects\Space-Shooter-\Game_Manager.cpp(84,20): warning C4244:         ]
+D:\Projects\Space-Shooter-\Game_Manager.cpp(85,20): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+D:\Projects\Space-Shooter-\Game_Manager.cpp(85,20): warning C4244:         with
+D:\Projects\Space-Shooter-\Game_Manager.cpp(85,20): warning C4244:         [
+D:\Projects\Space-Shooter-\Game_Manager.cpp(85,20): warning C4244:             _Ty=int
+D:\Projects\Space-Shooter-\Game_Manager.cpp(85,20): warning C4244:         ]
+  Game_objects.cpp
+  Player.cpp
+  Ship.cpp
+  Space-Shooter.cpp
+D:\Projects\Space-Shooter-\Space-Shooter.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Space-Shooter.vcxproj -> D:\Projects\Space-Shooter-\x64\Debug\Space-Shooter.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

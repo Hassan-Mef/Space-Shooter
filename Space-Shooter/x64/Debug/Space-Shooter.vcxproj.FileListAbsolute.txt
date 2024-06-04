@@ -1,0 +1,4 @@
+D:\Porgramsss\Space-Shooter\x64\Debug\raylib.dll
+D:\Porgramsss\Space-Shooter\Space-Shooter\x64\Debug\Space-Sh.E5D62FEF.Up2Date
+D:\Projects\Space-Shooter-\x64\Debug\raylib.dll
+D:\Projects\Space-Shooter-\Space-Shooter\x64\Debug\Space-Sh.E5D62FEF.Up2Date

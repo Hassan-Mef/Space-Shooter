@@ -1,0 +1,3 @@
+﻿  Space-Shooter.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Porgramsss\Test Merging\x64\Debug\Space-Shooter.exe : fatal error LNK1120: 1 unresolved externals
