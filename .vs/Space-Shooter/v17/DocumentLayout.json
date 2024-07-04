@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "D:\\Projects\\Space-Shooter-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|D:\\Projects\\Space-Shooter-\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|D:\\Projects\\Space-Shooter-\\Space-Shooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|solutionrelative:Space-Shooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|D:\\Projects\\Space-Shooter-\\Game_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|solutionrelative:Game_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|D:\\Projects\\Space-Shooter-\\Game_Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|solutionrelative:Game_Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|D:\\Projects\\Space-Shooter-\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|solutionrelative:Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|D:\\Projects\\Space-Shooter-\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|D:\\Projects\\Space-Shooter-\\Enemies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{06810B5C-2A58-46D8-8C89-31782675F7C5}|Space-Shooter.vcxproj|solutionrelative:Enemies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,93 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Space-Shooter.cpp",
               "DocumentMoniker": "D:\\Projects\\Space-Shooter-\\Space-Shooter.cpp",
               "RelativeDocumentMoniker": "Space-Shooter.cpp",
               "ToolTip": "D:\\Projects\\Space-Shooter-\\Space-Shooter.cpp",
               "RelativeToolTip": "Space-Shooter.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-20T11:51:42.84Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Console.h",
-              "DocumentMoniker": "D:\\Projects\\Space-Shooter-\\Console.h",
-              "RelativeDocumentMoniker": "Console.h",
-              "ToolTip": "D:\\Projects\\Space-Shooter-\\Console.h",
-              "RelativeToolTip": "Console.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-10T14:54:32.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "D:\\Projects\\Space-Shooter-\\Player.cpp",
-              "RelativeDocumentMoniker": "Player.cpp",
-              "ToolTip": "D:\\Projects\\Space-Shooter-\\Player.cpp",
-              "RelativeToolTip": "Player.cpp",
-              "ViewState": "AQIAAGAAAAAAAAAAAAApwGIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-10T14:46:16.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Enemies.cpp",
-              "DocumentMoniker": "D:\\Projects\\Space-Shooter-\\Enemies.cpp",
-              "RelativeDocumentMoniker": "Enemies.cpp",
-              "ToolTip": "D:\\Projects\\Space-Shooter-\\Enemies.cpp",
-              "RelativeToolTip": "Enemies.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-10T06:25:50.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Player.h",
-              "DocumentMoniker": "D:\\Projects\\Space-Shooter-\\Player.h",
-              "RelativeDocumentMoniker": "Player.h",
-              "ToolTip": "D:\\Projects\\Space-Shooter-\\Player.h",
-              "RelativeToolTip": "Player.h",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAUwA0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-07T15:23:16.636Z",
+              "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Game_Manager.h",
-              "DocumentMoniker": "D:\\Projects\\Space-Shooter-\\Game_Manager.h",
-              "RelativeDocumentMoniker": "Game_Manager.h",
-              "ToolTip": "D:\\Projects\\Space-Shooter-\\Game_Manager.h",
-              "RelativeToolTip": "Game_Manager.h",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-04T19:35:17.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game_Manager.cpp",
-              "DocumentMoniker": "D:\\Projects\\Space-Shooter-\\Game_Manager.cpp",
-              "RelativeDocumentMoniker": "Game_Manager.cpp",
-              "ToolTip": "D:\\Projects\\Space-Shooter-\\Game_Manager.cpp",
-              "RelativeToolTip": "Game_Manager.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-04T19:28:18.991Z"
             }
           ]
         }
